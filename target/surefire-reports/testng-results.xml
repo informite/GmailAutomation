@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.automation.tests.LoginPageTest" duration-ms="93467" started-at="2017-12-20T20:21:35Z" finished-at="2017-12-20T20:23:09Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="93467" started-at="2017-12-20T20:21:35Z" finished-at="2017-12-20T20:23:09Z">
+      <class name="com.automation.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.tests.LoginPageTest@7e0ea639]" name="setup" is-config="true" duration-ms="7054" started-at="2017-12-20T15:21:35Z" finished-at="2017-12-20T15:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sendingEmailTest()[pri:1, instance:com.automation.tests.LoginPageTest@7e0ea639]" name="sendingEmailTest" duration-ms="35529" started-at="2017-12-20T15:21:42Z" finished-at="2017-12-20T15:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendingEmailTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.automation.tests.LoginPageTest@7e0ea639]" name="teardown" is-config="true" duration-ms="6303" started-at="2017-12-20T15:22:18Z" finished-at="2017-12-20T15:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.tests.LoginPageTest@7e0ea639]" name="setup" is-config="true" duration-ms="4023" started-at="2017-12-20T15:22:24Z" finished-at="2017-12-20T15:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyEmailReceived()[pri:2, instance:com.automation.tests.LoginPageTest@7e0ea639]" name="verifyEmailReceived" duration-ms="33835" started-at="2017-12-20T15:22:28Z" finished-at="2017-12-20T15:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailReceived -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.automation.tests.LoginPageTest@7e0ea639]" name="teardown" is-config="true" duration-ms="6634" started-at="2017-12-20T15:23:02Z" finished-at="2017-12-20T15:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.automation.tests.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.automation.tests.LoginPageTest -->
+</testng-results>
